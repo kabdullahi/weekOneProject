@@ -1,0 +1,86 @@
+body{
+  background-color: #F2F1E8;
+}
+nav{
+  display: flex;
+  justify-content: center;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  width: 550px;
+}
+a{
+  color: black;
+}
+h1, h2 {
+  text-align: center;
+  font-family: Roboto;
+}
+.image {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+#one{
+  background-image: url(../images/product-1.jpg);
+  width: 735px;
+  height: 365px;
+  color: white;
+  margin: 0.5%;
+}
+#two{
+  background-image: url(../images/product-2.jpg);
+  width: 235px;
+  height: 365px;
+  color: white;
+  margin: 0.5%;
+}
+#three{
+  background-image: url(../images/product-3.jpg);
+  width: 235px;
+  height: 365px;
+  color: white;
+  margin: 0.5%;
+}
+#four{
+  background-image: url(../images/product-4.jpg);
+  width: 230px;
+  height:230px;
+  color: white;
+  margin: 0.5%;
+}
+#five{
+  background-image: url(../images/product-5.jpg);
+  width: 230px;
+  height:230px;
+  color: white;
+  margin: 0.5%;
+}
+#six{
+  background-image: url(../images/product-6.jpg);
+  width: 485px;
+  height:230px;
+  color: white;
+  margin: 1%;
+}
+#seven{
+  background-image: url(../images/product-7.jpg);
+  width: 230px;
+  height:230px;
+  color: white;
+  margin: 1%;
+}
+p {
+  background-color: #283f29;
+}
+footer{
+  background-color: #283f29;
+  height: 50px;
+  color: white;
+  padding: 15px;
+}
+#icon {
+    width: 50px;
+    height: 50px;
+}
